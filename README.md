@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Rachitha Eshan</h1>
-<h3 align="center">A passionate frontend and Backend developer from Sri Lanka</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Rachitha+Eshan;Passionate+Developer;From+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0" alt="Typing SVG" />
+</div>
+
+<h3 align="center">A passionate developer from Sri Lanka 🇱🇰</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rachithaeshan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rachithaeshan&label=Profile%20views&color=0e75b6&style=flat" alt="rachithaeshan" /> </p>
 
