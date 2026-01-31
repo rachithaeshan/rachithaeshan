@@ -36,16 +36,16 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=rachithaeshan&theme=dark&show_icons=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rachithaeshan&theme=dark&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://streak-stats.demolab.com/?user=rachithaeshan&theme=dark&hide_border=false" /> 
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=rachithaeshan&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rachithaeshan&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachithaeshan&theme=dark&hide_border=false&layout=compact&langs_count=8" alt="Top Languages" />
   
-  </td>
+</td>
 </tr>
 </table>
 <!--- stats (end) -->
@@ -61,9 +61,7 @@
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rachithaeshan&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" alt="rachithaeshan" />
-  </a> 
+  <img src="https://github-profile-trophy.vercel.app/?username=rachithaeshan&theme=algolia&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -133,5 +131,5 @@
 <h3 align="center">✨ Show some ❤️ by starring some of the repositories! ✨</h3>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/GitHub-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
