@@ -36,16 +36,16 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rachithaeshan&theme=dark&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=rachithaeshan&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=rachithaeshan&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://streak-stats.demolab.com/?user=rachithaeshan&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachithaeshan&theme=dark&hide_border=false&layout=compact&langs_count=8" alt="Top Languages" />
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rachithaeshan&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
-</td>
+  </td>
 </tr>
 </table>
 <!--- stats (end) -->
@@ -133,5 +133,5 @@
 <h3 align="center">✨ Show some ❤️ by starring some of the repositories! ✨</h3>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/GitHub-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
