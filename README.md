@@ -1,137 +1,152 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Rachitha+Eshan;Passionate+Developer;From+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0" alt="Typing SVG" />
-</div>
+  
+# 💫 Rachitha Eshan
+### `Passionate Developer | Sri Lanka 🇱🇰`
 
-<h3 align="center">A passionate developer from Sri Lanka 🇱🇰</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+cool+things+one+commit+at+a+time+%F0%9F%9A%80;Full+Stack+Developer;Java+%7C+Python+%7C+React+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rachithaeshan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=rachithaeshan&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/rachithaeshan?label=Followers&style=for-the-badge&color=00D9FF" alt="followers" />
+  <img src="https://img.shields.io/github/stars/rachithaeshan?label=Stars&style=for-the-badge&color=00D9FF" alt="stars" />
 </p>
+
+</div>
+
+---
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
+### 🚀 About Me
+
+```javascript
+const rachitha = {
+    education: "BSc in IT @ SLIIT, Sri Lanka",
+    role: "Undergraduate Developer",
+    learning: ["Full Stack Development", "Problem Solving"],
+    interests: ["Open Source", "Clean Code", "UI/UX"],
+    contact: "rachitaeshan@gmail.com",
+    goal: "Collaborate on impactful projects"
+};
+```
 
 <br>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+### 🎯 Current Focus
 
-- 🔭 I'm currently working on **Bicycle Spare parts Market**
-
-- 🌱 I'm currently learning **Java , Python**
-
-- 👯 I'm looking to collaborate on **Hospital Employee Management System**
-
-- 🤝 I'm looking for help with **Hospital Employee Management System**
-
-- 💬 Ask me about **Java**
-
-- 📫 How to reach me **rachitaeshan@gmail.com**
+- 🔭 Working on **Bicycle Spare Parts Market**
+- 🌱 Learning **Java, Python & Advanced React**
+- 👯 Looking to collaborate on **Hospital Employee Management System**
+- 🤝 Seeking help with **System Architecture & Design Patterns**
+- 💬 Ask me about **Java, Web Development, Problem Solving**
+- 📫 Reach me: **rachitaeshan@gmail.com**
 
 <br clear="both">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
 
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
+<div align="center">
+
+### Languages
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & Platforms
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=rachithaeshan&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://streak-stats.demolab.com/?user=rachithaeshan&theme=dark&hide_border=false" /> 
-</td>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rachithaeshan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.demolab.com/?user=rachithaeshan&theme=tokyonight&hide_border=true" />
 
-<td width="50%" align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachithaeshan&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=rachithaeshan&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rachithaeshan&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+</div>
+
+---
+
+<h2 align="center">🏆 GitHub Achievements</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rachithaeshan&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="Trophies" />
+</p>
+
+---
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rachithaeshan&theme=react-dark&hide_border=true&area=true&custom_title=Rachitha's%20Contribution%20Graph" width="98%" />
+</div>
+
+---
+
+<h2 align="center">🤝 Connect With Me</h2>
+
+<div align="center">
   
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rachithaeshan)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://fb.com/rachithaeshan)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/rachithaeshan)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rachitaeshan@gmail.com)
 
-<br>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rachithaeshan&theme=react-dark&hide_border=true&area=true" width="95%">
-</p>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h2 align="center">💭 Random Dev Quote</h2>
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+<div align="center">
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rachithaeshan&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" alt="rachithaeshan" />
-  </a> 
-</p>
+</div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-<h2 align="center">🌐 Connect with me</h2>
-
-<p align="center">
-<a href="https://linkedin.com/in/rachithaeshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rachitha eshan" height="30" width="40" /></a>
-<a href="https://fb.com/rachithaeshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rachitha eshan" height="30" width="40" /></a>
-<a href="https://instagram.com/rachithaeshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rachithaeshan" height="30" width="40" /></a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2 align="center">💻 Tech Stack</h2>
-
-<p align="center"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  </a> 
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h3 align="center">✨ Show some ❤️ by starring some of the repositories! ✨</h3>
+<h2 align="center">🐍 Watch My Contributions Get Eaten!</h2>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
+<div align="center">
+
+### 💙 Thanks for visiting!
+
+![](https://hit.yhype.me/github/profile?user_id=rachithaeshan)
+
+**⭐ Don't forget to star some repositories if you find them interesting!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
 </div>
