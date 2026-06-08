@@ -31,7 +31,7 @@
 
 - 🎓 **Education:** BSc in IT @ SLIIT, Sri Lanka
 - 💼 **Role:** Undergraduate Software Developer  
-- 🔭 **Current Project:** Bicycle Spare Parts Market Platform
+- 🔭 **Current Project:** InternLink(Similiar to Linkedin)
 - 🌱 **Learning:** Advanced Java, Python & System Design
 - 👯 **Collaboration:** Hospital Employee Management System
 - 🎯 **Goal:** Build scalable, production-grade applications
@@ -65,6 +65,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=339933)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1)
+
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032)
